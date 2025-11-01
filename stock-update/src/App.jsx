@@ -1,10 +1,10 @@
 import { BrowserRouter as Router } from "react-router-dom";
-import Navbar from "./components/Navbar/Navbar";
-import HeroSection from "./components/HeroSection/HeroSection";
-import HowItWorks from "./components/HowItWorks/HowItWorks";
-import CTA from "./components/CTA/cta";
-import FAQ from "./components/FAQ/faq";
-import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar";
+import HeroSection from "./components/HeroSection";
+import HowItWorks from "./components/HowItWorks";
+import CTA from "./components/cta";
+import FAQ from "./components/faq";
+import Footer from "./components/Footer";
 
 function App() {
   return (
